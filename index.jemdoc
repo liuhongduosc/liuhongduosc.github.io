@@ -5,20 +5,18 @@
 
 ~~~
 {}{img_left}{photo.jpg}{150}{150}{Hongduo Liu}
-Hongduo Liu, Ph.D. Student \n
-[http://www.cse.cuhk.edu.hk/ Department of Computer Science and Engineering]\n
-[http://www.cuhk.edu.hk/ The Chinese University of Hong Kong]\n
+Hongduo Liu, Ph.D. \n
+Researcher\n
 Email: liuhongduosc@gmail.com
 ~~~
 
 == Biography
-I am currently a Ph.D. student at Department of Computer Science and Engineering, The Chinese University of Hong Kong (CUHK), 
-under the supervision of [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei Yu] since Fall 2021. 
-Previously, I received my Bachelor's Degree of Engineering from [https://www.uestc.edu.cn/ University of Electronic Science and Technology of China (UESTC)] in 2020.
+I am currently a researcher at Noah’s Ark Lab, Huawei Hong Kong Research Center. I received my Ph.D. in Computer Science and Engineering from The Chinese University of Hong Kong (CUHK) in July 2025, where I was advised by [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei Yu] and [https://www.cse.cuhk.edu.hk/people/faculty/tsung-yi-ho/ Prof. Tsung-Yi Ho]. Earlier, I received my bachelor's degrees in IoT Engineering and Applied Mathematics from the University of Electronic Science and Technology of China (UESTC) in 2020.
 
-== Research Interest
-- Hardware/Algorithm Co-Optimization
-- EDA
+== Research Interests
+- LLM for Chip Design
+- AI for verification
+- Hardware–Software Co-design
 
 == Publication
 - \[C1\] Jiahao Liu, Zhen Zhu, Yong Zhou, Ning Wang, Guanghai Dai, Qingsong Liu, Jianbiao Xiao, Yuxiang Xie, Zirui Zhong, *Hongduo Liu*, Liang Chang, Jun Zhou,
@@ -30,6 +28,7 @@ Previously, I received my Bachelor's Degree of Engineering from [https://www.ues
 - Shenzhen, P.R.China, Aug.2020 - Jun.2021\n 
   
 == Awards
+- Best Reviewer Award, IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 2026
 - Full Postgraduate Studentship, 	CUHK, 	2021-2025
 - Outstanding Graduate, UESTC, 	2020
 - First Class Outstanding Academic Scholarship,  UESTC,     2017, 2018, 2019
